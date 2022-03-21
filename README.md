@@ -9,7 +9,7 @@
 建立完整的企业与专家对接流程，以及专业化的对接链路等，利用Al针对性地促成企业与专家合作
 
 - 名称：
-- 成员：[欧阳奎](https://github.com/Mike-Smith-rem), [李真哲](https://github.com/cpfy), [徐塨霖](https://github.com/xgl010607), [梁沛贤](https://github.com/lpx-single), [肖昌朝]([MrXcc0](https://github.com/orgs/SE-mcdb/people/MrXcc0)), [郭明明](https://github.com/imingx).
+- 成员：[欧阳奎](https://github.com/Mike-Smith-rem), [李真哲](https://github.com/cpfy), [徐塨霖](https://github.com/xgl010607), [梁沛贤](https://github.com/lpx-single), [肖昌朝](https://github.com/MrXcc0), [郭明明](https://github.com/imingx).
 - 编号：O2E-TU-2
 
 ## 进度安排
