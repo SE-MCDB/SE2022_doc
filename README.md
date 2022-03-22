@@ -14,7 +14,7 @@
 
 ## 进度安排
 
-[工作记录](./WorkRecord.md) 、[评价指导](./Comments.md) 、[周报和汇报](./Weekly) 、[相关资源](./Source)
+[工作记录](./WorkRecord.md) 、[评价指导](./Comments.md) 、[周报和汇报](./Weekly)
 
 - 3.22 周报初稿、汇报进度
 
@@ -44,3 +44,5 @@
 - [知兔接口详细整理(lzz, lpx)](./Interface/知兔接口详细整理.md)
 
 ### 其他参考：
+
+- [课件资源](./Source)
