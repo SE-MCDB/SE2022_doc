@@ -10,9 +10,15 @@
 - 成员：[欧阳奎](https://github.com/Mike-Smith-rem)   [李真哲](https://github.com/cpfy)  [徐塨霖](https://github.com/xgl010607)  [梁沛贤](https://github.com/lpx-single)  [肖昌朝](https://github.com/MrXcc0)  [郭明明](https://github.com/imingx)
 - 编号：O2E-TU-2
 
+## 成果
+
+[项目文档](./Document)
+
+[周报和汇报](./Weekly)
+
 ## 进度安排
 
-[工作记录](./WorkRecord.md) 、[评价指导](./Comments.md) 、[周报和汇报](./Weekly)
+[工作记录](./WorkRecord.md) 、 [评价指导](./Comments.md)
 
 - 3.22 周报初稿、汇报进度
 - 3.29 团队作业需求汇报评审，提交**需求文档**、周报
