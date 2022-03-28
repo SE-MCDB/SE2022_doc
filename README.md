@@ -45,4 +45,4 @@
 
 ### 其他参考：
 
-- [课件资源](./Source)
+- [课件资源](https://github.com/SE-mcdb/SE2022_source)
