@@ -35,10 +35,8 @@
 ## 平台工具
 
 - 周报：[金山文档](https://www.kdocs.cn/group/1730778455)
-
 - 文档归档：[此仓库](https://github.com/SE-mcdb/SE2022_doc)
-
-- 源代码： 
+- 源代码： Waiting…
 
     
 
