@@ -49,3 +49,4 @@
 ### 其他参考：
 
 - [课件资源](https://github.com/SE-mcdb/SE2022_source)
+- [Django基础](https://github.com/SE-mcdb/SE2022_source/tree/main/Django%E5%9F%BA%E7%A1%80)
