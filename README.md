@@ -23,6 +23,7 @@
 - 3.22 周报初稿、汇报进度
 - 3.29 团队作业需求汇报评审，提交**需求文档**、周报
 - 4.5 提交周报、汇报进度
+- 4.12 提交周报、汇报进度
 
 ## 每周安排
 
@@ -34,11 +35,42 @@
 
 ## 平台工具
 
-- 周报：[金山文档](https://www.kdocs.cn/group/1730778455)
-- 文档归档：[此仓库](https://github.com/SE-mcdb/SE2022_doc)
-- 源代码： Waiting…
+- 周报、需求等文档：[金山文档](https://www.kdocs.cn/group/1730778455)
+- 文档归档：[SE2022_doc](https://github.com/SE-mcdb/SE2022_doc)
+- 源代码： 
+  - 后端：[SE2022_Backend](https://github.com/SE-mcdb/SE2022_Backend)
+  - 管理端：[SE2022_Frontend_Manager](https://github.com/SE-mcdb/SE2022_Frontend_Manager)
+  - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
+  - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
+  
 
-    
+## 账号
+
+### 数据库
+
+```
+'HOST': 'rm-2zeu3f7e1n5yt10v0co.mysql.rds.aliyuncs.com',
+'NAME': 'se2022',
+'USER': 'root',
+'PASSWORD': 'myja&*$4X579cKr',
+'PORT': '3306'
+```
+
+### 服务器
+
+```
+'HOST': 47.94.7.26
+
+// 普通用户
+'USER': admin
+'PASSWORD': 123456
+
+// 根用户
+'USER': root
+'PASSWORD': 123456
+
+建议使用普通用户登录
+```
 
 ## 资料
 
@@ -48,5 +80,5 @@
 
 ### 其他参考：
 
-- [课件资源](https://github.com/SE-mcdb/SE2022_source)
+- [课件资源 SE2022_source](https://github.com/SE-mcdb/SE2022_source)
 - [Django基础](https://github.com/SE-mcdb/SE2022_source/tree/main/Django%E5%9F%BA%E7%A1%80)
