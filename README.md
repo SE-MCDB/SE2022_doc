@@ -63,11 +63,11 @@
 
 // 普通用户
 'USER': admin
-'PASSWORD': 123456
+'PASSWORD': se-mcdb2022
 
 // 根用户
 'USER': root
-'PASSWORD': 123456
+'PASSWORD': se-mcdb2022
 
 建议使用普通用户登录
 ```
