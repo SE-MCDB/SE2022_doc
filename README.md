@@ -43,8 +43,6 @@
   - 管理端：[SE2022_Frontend_Manager](https://github.com/SE-mcdb/SE2022_Frontend_Manager)
   - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
   - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
-
-
 - API协作：[Apifox](https://www.apifox.cn/web/project/843519)
 - 通知公告：微信群
 
