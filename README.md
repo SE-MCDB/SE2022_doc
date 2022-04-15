@@ -37,12 +37,16 @@
 
 - 周报、需求等文档：[金山文档](https://www.kdocs.cn/group/1730778455)
 - 文档归档：[SE2022_doc](https://github.com/SE-mcdb/SE2022_doc)
+- 资源归档：[SE2022_source](https://github.com/SE-mcdb/SE2022_source)
 - 源代码： 
   - 后端：[SE2022_Backend](https://github.com/SE-mcdb/SE2022_Backend)
   - 管理端：[SE2022_Frontend_Manager](https://github.com/SE-mcdb/SE2022_Frontend_Manager)
   - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
   - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
-  
+
+
+- API协作：[Apifox](https://www.apifox.cn/web/project/843519)
+- 通知公告：微信群
 
 ## 账号
 
@@ -86,6 +90,7 @@ waiting
 ### 组员整理：
 
 - [知兔接口详细整理(lzz, lpx)](./Interface/知兔接口详细整理.md)
+- [开发相关问题](https://github.com/SE-mcdb/SE2022_source/tree/main/%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3)
 
 ### 其他参考：
 
