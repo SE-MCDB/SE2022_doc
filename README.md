@@ -63,7 +63,17 @@
 #### 华为云
 
 ```
-waiting
+'HOST': 122.9.14.73
+
+// 普通用户
+'USER': admin
+'PASSWORD': se-mcdb-o2e
+
+// 根用户
+'USER': root
+'PASSWORD': se-mcdb-o2e
+
+建议使用普通用户登录
 ```
 
 #### 阿里云
@@ -73,11 +83,11 @@ waiting
 
 // 普通用户
 'USER': admin
-'PASSWORD': se-mcdb2022
+'PASSWORD': se-mcdb-o2e
 
 // 根用户
 'USER': root
-'PASSWORD': se-mcdb2022
+'PASSWORD': se-mcdb-o2e
 
 建议使用普通用户登录
 开放端口：500-65535
