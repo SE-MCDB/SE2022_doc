@@ -115,7 +115,9 @@ CentOS
 
 - 参见：[SOURCE](https://github.com/SE-mcdb/SE2022_source)
 
+## License
 
+[MIT](./LICENSE)
 
 ```stl
 solid cube_corner
