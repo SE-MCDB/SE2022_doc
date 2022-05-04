@@ -4,26 +4,25 @@
 
 **面向企业技术需求的专家对接服务平台**
 
-在现有论文解读科研社交平台基础上进行二次开发，建立完整的企业与专家对接流程，以及专业化的对接链路等，利用Al针对性地促成企业与专家合作
+在现有论文解读科研社交平台基础上进行二次开发，建立完整的企业与专家对接流程，以及专业化的对接链路等，利用Al针对性地促成企业与专家合作。
 
-- 名称：
+- 名称：`PaperDaily`
 - 成员：[欧阳奎](https://github.com/Mike-Smith-rem)   [李真哲](https://github.com/cpfy)  [徐塨霖](https://github.com/xgl010607)  [梁沛贤](https://github.com/lpx-single)  [肖昌朝](https://github.com/MrXcc0)  [郭明明](https://github.com/imingx)
 - 编号：O2E-TU-2
 
 ## 成果
 
-[项目文档](./Document)
+- [项目文档](./Document)
+- [周报和汇报](./Weekly)
 
-[周报和汇报](./Weekly)
 
 ## 进度安排
 
-[开会记录](./Meeting.md)、[评价指导](./Comments.md)、[TODO](./Todo.md)
-
-- 3.22 周报初稿、汇报进度
-- 3.29 团队作业需求汇报评审，提交**需求文档**、周报
-- 4.5 提交周报、汇报进度
-- 4.12 提交周报、汇报进度
+- [开会记录](./Meeting.md)、[评价指导](./Comments.md)、[TODO](./Todo.md)
+- `3.22` 周报初稿、汇报进度
+- `3.29` 团队作业需求汇报评审，提交**需求文档**、周报
+- `4.5` ，`4.12`，`4.19`，`4.26` 提交周报、汇报进度
+- `5.5` Alpha版本评审，提交周报、概要设计文档
 
 ## 每周安排
 
@@ -48,8 +47,7 @@
 
 ## 账号
 
-### 数据库
-
+<details> <summary><h3>数据库</h3></summary>
 ```
 'HOST': 'rm-2zeu3f7e1n5yt10v0co.mysql.rds.aliyuncs.com',
 'NAME': 'se2022',
@@ -57,11 +55,11 @@
 'PASSWORD': 'myja&*$4X579cKr',
 'PORT': '3306'
 ```
+</details>
 
 ### 服务器
 
-#### 华为云
-
+<details> <summary><h4>华为云（Course）</h4><summary>
 ```
 CentOS
 
@@ -78,8 +76,9 @@ CentOS
 建议使用普通用户登录
 ```
 
-#### 阿里云
+</details>
 
+<details> <summary><h4>阿里云</h4><summary>
 ```
 CentOS
 
@@ -96,15 +95,49 @@ CentOS
 建议使用普通用户登录
 开放端口：8000-20000
 ```
+</details>
 
 ## 资料
 
 ### 组员整理：
 
 - [知兔接口详细整理(lzz, lpx)](./Interface/知兔接口详细整理.md)
-- [开发相关问题](https://github.com/SE-mcdb/SE2022_source/tree/main/%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3)
+- [项目相关整理](https://github.com/SE-mcdb/SE2022_source/tree/main/%E9%A1%B9%E7%9B%AE%E7%9B%B8%E5%85%B3)
 
 ### 其他参考：
 
-- [课件资源 SE2022_source](https://github.com/SE-mcdb/SE2022_source)
-- [Django基础](https://github.com/SE-mcdb/SE2022_source/tree/main/Django%E5%9F%BA%E7%A1%80)
+- 参见：[SOURCE](https://github.com/SE-mcdb/SE2022_source)
+
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
