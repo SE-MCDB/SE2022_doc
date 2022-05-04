@@ -15,6 +15,11 @@
 - [项目文档](./Document)
 - [周报和汇报](./Weekly)
 
+|         | REPO                                                       | DEPLOY                                        | URL  |
+| ------- | ---- | ------- | ------- |
+| UNI-APP |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [apk](https://github.com/SE-mcdb/SE2022_source/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
+| WEB     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
+| Manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
 
 ## 进度安排
 
@@ -48,7 +53,7 @@
 ## 账号
 
 <details><summary>数据库</summary>
-  
+
 ```
 'HOST': 'rm-2zeu3f7e1n5yt10v0co.mysql.rds.aliyuncs.com',
 'NAME': 'se2022',
@@ -77,9 +82,9 @@ CentOS
 
 建议使用普通用户登录
 ```
-  
+
 #### 阿里云
-  
+
 ```
 CentOS
 
@@ -96,15 +101,15 @@ CentOS
 建议使用普通用户登录
 开放端口：8000-20000
 ```
-  
+
 </details>
-  
+
 ## 资料
 
 ### 组员整理：
 
-- [知兔接口详细整理(lzz, lpx)](./Interface/知兔接口详细整理.md)
-- [项目相关整理](https://github.com/SE-mcdb/SE2022_source/tree/main/%E9%A1%B9%E7%9B%AE%E7%9B%B8%E5%85%B3)
+- [知兔接口详细整理(lzz, lpx)](./Archive/知兔接口详细整理.md)
+- [项目相关内容](https://github.com/SE-mcdb/SE2022_source/tree/main/%E9%A1%B9%E7%9B%AE%E7%9B%B8%E5%85%B3)
 
 ### 其他参考：
 
