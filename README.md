@@ -1,4 +1,4 @@
-# SE2022 文档
+<h1 align="center"> SE2022 文档 </h1>
 
 ## 项目简介
 
@@ -47,7 +47,8 @@
 
 ## 账号
 
-<details> <summary><h3>数据库</h3></summary>
+<details><summary>数据库</summary>
+  
 ```
 'HOST': 'rm-2zeu3f7e1n5yt10v0co.mysql.rds.aliyuncs.com',
 'NAME': 'se2022',
@@ -57,9 +58,10 @@
 ```
 </details>
 
-### 服务器
+<details><summary>云服务</summary>
 
-<details> <summary><h4>华为云（Course）</h4><summary>
+#### 华为云（课程）
+
 ```
 CentOS
 
@@ -75,10 +77,9 @@ CentOS
 
 建议使用普通用户登录
 ```
-
-</details>
-
-<details> <summary><h4>阿里云</h4><summary>
+  
+#### 阿里云
+  
 ```
 CentOS
 
@@ -95,8 +96,9 @@ CentOS
 建议使用普通用户登录
 开放端口：8000-20000
 ```
+  
 </details>
-
+  
 ## 资料
 
 ### 组员整理：
@@ -107,6 +109,7 @@ CentOS
 ### 其他参考：
 
 - 参见：[SOURCE](https://github.com/SE-mcdb/SE2022_source)
+
 
 
 ```stl
