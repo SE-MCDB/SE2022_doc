@@ -1,4 +1,8 @@
 <h1 align="center"> SE2022 文档 </h1>
+<div align="center">
+
+[![](https://img.shields.io/badge/backend-Django-96d6d1)](https://www.djangoproject.com/) [![](https://img.shields.io/badge/frontend-Vue.js-7B8ED0)](https://vuejs.org/) [![](https://img.shields.io/badge/framework-uniapp-4E9645)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/license-MIT-9cf)](./LICENSE)
+</div>
 
 ## 项目简介
 
