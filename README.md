@@ -7,7 +7,7 @@
 在现有论文解读科研社交平台基础上进行二次开发，建立完整的企业与专家对接流程，以及专业化的对接链路等，利用Al针对性地促成企业与专家合作。
 
 - 名称：`PaperDaily`
-- 成员：[欧阳奎](https://github.com/Mike-Smith-rem)   [李真哲](https://github.com/cpfy)  [徐塨霖](https://github.com/xgl010607)  [梁沛贤](https://github.com/lpx-single)  [肖昌朝](https://github.com/MrXcc0)  [郭明明](https://github.com/imingx)
+- 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/imingx)
 - 编号：O2E-TU-2
 
 ## 成果
@@ -15,11 +15,11 @@
 - [项目文档](./Document)
 - [周报和汇报](./Weekly)
 
-|         | REPO                                                       | DEPLOY                                        | URL  |
+|         | 🌈 REPO                                                       | 🍿DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
-| UNI-APP |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [apk](https://github.com/SE-mcdb/SE2022_source/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
-| WEB     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
-| Manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
+| uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [apk](https://github.com/SE-mcdb/SE2022_source/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
+| web     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
+| manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
 
 ## 进度安排
 
