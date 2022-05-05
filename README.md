@@ -112,8 +112,10 @@ CentOS
 
 ### 组员整理：
 
-- [知兔接口详细整理(lzz, lpx)](./Archive/知兔接口详细整理.md)
-- [项目相关内容](https://github.com/SE-mcdb/SE2022_source/tree/main/%E9%A1%B9%E7%9B%AE%E7%9B%B8%E5%85%B3)
+- [项目文档初稿归档](./Archive)
+
+- [知兔接口整理(lzz, lpx)](./Archive/知兔接口详细整理.md)
+- [项目相关文件](https://github.com/SE-mcdb/SE2022_source/tree/main/%E9%A1%B9%E7%9B%AE%E7%9B%B8%E5%85%B3)
 
 ### 其他参考：
 
