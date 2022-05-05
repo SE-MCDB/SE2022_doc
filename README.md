@@ -5,10 +5,12 @@
 </div>
 
 ## 项目简介
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205051640484.png" align="right" width="20%">
 
 **面向企业技术需求的专家对接服务平台**
 
 在现有论文解读科研社交平台基础上进行二次开发，建立完整的企业与专家对接流程，以及专业化的对接链路等，利用Al针对性地促成企业与专家合作。
+
 
 - 名称：`PaperDaily`
 - 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/imingx)
