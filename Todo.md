@@ -169,6 +169,34 @@ app细节 接口 反馈 lzz
 
 ## Week11
 
+## 5.11
+
+![image](https://user-images.githubusercontent.com/54981719/167795803-cc8c0028-dc66-490c-a2d3-8c1fd77412cf.png)
+
+
+### 部署（gmm+lpx 周四）
+
+• 代码部署和pipeline
+
+• 熟悉华为云
+
+### 前端（周五）
+
+#### App（oyk + lzz）
+
+主要在于页面修订
+
+#### 管理端（xgl）
+
+反馈功能；评价？
+
+### 算法（3人 + 全体）
+
+论文匹配
+
+专家推荐在下周，但是需要有一个大致模型？
+
+
 ## Week12
 
 ## Week13
