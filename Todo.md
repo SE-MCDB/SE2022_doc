@@ -264,6 +264,40 @@ WEB
 
 ## Week13
 
+### 前端
+
+- <span style=color:red>修改专家推荐页面</span>（oyk + gmm + lpx）
+  - 需要有关键词搜索
+  - 需要有匹配的信息
+  - 然后显示专家
+- <span style=color:red>评价</span>（xcc + gmm）
+  - 通过评价星星进行评价
+  - 获得总体评价/进行单个评价
+- 处理新专家（lzz）
+- 对专家增加更加全面的评估（lzz）
+  - 对专家专业领域进行评分
+  - 展示专家最近评价
+- 专家人数的限制（oyk + gmm）
+  - 到达所需要的所有专家数量后，后续专家无法联系企业，企业无法进行专家推荐？
+
+### 算法
+
+- <span style=color:red>数据库扩充</span>（lpx）
+- <span style=color:red>测试</span>（lpx， gmm， oyk？）
+
+### 文档
+
+- 用户手册可以先行完成大部分（lzz + xgl + oyk + xcc）
+- 测试报告（xgl + gmm）
+
+### 内部测试
+
+（xgl + gmm）
+
+### 互测版本部署
+
+（gmm）
+
 ## Week14
 
 ## Week15
