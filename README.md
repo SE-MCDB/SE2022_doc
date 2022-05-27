@@ -18,13 +18,16 @@
 
 ## 成果
 
+> **Note**:
+> Web端未进行开发
+
 - [项目文档](./Document)
 - [周报和汇报](./Weekly)
 
 |         | 🌈 REPO                                                       | 🍿DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
 | uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
-| web     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | [`w.spoc.uno`](http://w.spoc.uno) |
+| web     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | ~[`w.spoc.uno`](http://w.spoc.uno)~ |
 | manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
 
 ## 进度安排
