@@ -20,12 +20,12 @@
 
 - [项目文档](./Document)
 - [周报和汇报](./Weekly)
-
+- [后端代码](https://github.com/SE-mcdb/SE2022_Backend)
 
 > **Note**:
 > Web端未进行开发
 
-| 🦋 FRONTEND |  🪹 CODE                                                     | 🍿 DEPLOYMENT                                        | 🧙LINK  |
+| 🦋 前端 |  🪹 代码                                                     | 🍿 部署                                        | 🔗 链接  |
 | ------- | ---- | ------- | ------- |
 | uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
 | manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
