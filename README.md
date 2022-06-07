@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- [![](https://img.shields.io/badge/backend-Django-96d6d1)](https://www.djangoproject.com/) [![](https://img.shields.io/badge/frontend-Vue.js-7B8ED0)](https://vuejs.org/)  -->
-  
+
   [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 )](https://www.djangoproject.com/)  [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/) [![](https://img.shields.io/badge/Framework-uniapp-4E9645?style=for-the-badge)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/License-MIT-9cf?style=for-the-badge)](./LICENSE)
 </div>
@@ -37,12 +37,16 @@
 ## 进度安排
 
 - [开会记录](./Meeting.md)、[评价指导](./Comments.md)、[TODO](./Todo.md)
-- `3.22` 周报初稿、汇报进度
+- `3.22` 提交周报初稿，汇报进度
 - `3.29` 团队作业需求汇报评审，提交**需求文档**、周报
 - `4.5` ，`4.12`，`4.19`，`4.26` 提交周报、汇报进度
 - `5.6` **Alpha版本**评审，提交周报、**概要设计文档**
 - `5.10` ，`5.17`，`5.24` 提交周报、汇报进度
 - `5.31` 提交周报、**用户使用手册**、**内部测试报告**，部署**互测版本**
+- `6.7` 提交周报、**互测问题清单**，汇报互测情况、进度
+- `6.14` 提交周报、**互测问题回复**，**稳定版发布评审**
+    - 汇报需列出全部计划需求、变更需求、稳定版完成情况列表，重点演示Alpha版本之后完成的需求功能以及系统特色功能，并汇报互测bug回复及修复情况
+
 
 ## 每周安排
 
