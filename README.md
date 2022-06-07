@@ -1,7 +1,10 @@
 <h1 align="center"> SE2022 文档 </h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/backend-Django-96d6d1)](https://www.djangoproject.com/) [![](https://img.shields.io/badge/frontend-Vue.js-7B8ED0)](https://vuejs.org/) [![](https://img.shields.io/badge/framework-uniapp-4E9645)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/license-MIT-9cf)](./LICENSE)
+<!-- [![](https://img.shields.io/badge/backend-Django-96d6d1)](https://www.djangoproject.com/) [![](https://img.shields.io/badge/frontend-Vue.js-7B8ED0)](https://vuejs.org/)  -->
+  
+  [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+)](https://www.djangoproject.com/)  [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/) [![](https://img.shields.io/badge/Framework-uniapp-4E9645?style=for-the-badge)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/License-MIT-9cf?style=for-the-badge)](./LICENSE)
 </div>
 
 ## 项目简介
