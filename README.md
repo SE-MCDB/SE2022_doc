@@ -4,7 +4,7 @@
 <!-- [![](https://img.shields.io/badge/backend-Django-96d6d1)](https://www.djangoproject.com/) [![](https://img.shields.io/badge/frontend-Vue.js-7B8ED0)](https://vuejs.org/)  -->
 
   [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
-)](https://www.djangoproject.com/)  [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/) [![](https://img.shields.io/badge/Framework-uniapp-4E9645?style=for-the-badge)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/License-MIT-9cf?style=for-the-badge)](./LICENSE)
+)](https://www.djangoproject.com/)  [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/) [![](https://img.shields.io/badge/uni--app-101E39?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC)](https://uniapp.dcloud.net.cn/) [![](https://img.shields.io/badge/License-MIT-9cf?style=for-the-badge)](./LICENSE)
 </div>
 
 ## 项目简介
@@ -67,9 +67,8 @@
   - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
   - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
 - API协作：[Apifox](https://www.apifox.cn/web/project/843519)
+- BUG修复：[Bug list](https://www.yuque.com/docs/share/255a8d68-911c-4eb0-bd4a-6055f3fbfaf3)
 - 通知公告：微信群
-
-
 
 ## 账号
 
