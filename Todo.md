@@ -338,8 +338,6 @@ WEB
 
 ### 5.31 测试文档
 
-## 0531测试文档
-
 - 5.2 测试人员需要修改
   - 企业-需求部分：（oyk + gmm）
   - 企业-专家-交互、订单和评价（xcc + lpx）
@@ -362,3 +360,58 @@ oyk审核
 gmm汇总
 
 ## Week15
+
+### 0610
+
+#### 需求文档
+
+##### 用户展示模块
+
+- 专家：专家信息展示
+- 专家：订单信息
+    - <span style=color:skyblue>增加专家被聘请的订单信息</span>
+- 企业：企业信息展示
+    - <span style=color:skyblue>企业信息。订单历史记录、评分等与平台有关信息</span>
+- 个人信息上传
+
+##### 用户交互模块
+- 需求平台: 公共平台，企业可以在上面发布需求、专家匹配；专家可以看到企业发布的需求。
+- 服务评价
+    - <span style=color:skyblue>相互评价</span>
+##### 推荐模块
+-  需求推荐功能
+    - <span style=color:blue>增加专家领域的活跃信息</span>
+    - <span style=color:skyblue>专家获得企业需求</span>
+##### 后台管理相关（xgl gmm）
+- 对接订单管理
+    - <span style=color:blue>最多只给删除吧</span>
+- 用于信息认证
+
+#### 变更需求
+<span style=color:red>确认没有!</span>
+-  与企业在线交流——modified——反馈
+
+#### 稳定版本完成情况
+
+#### alpha版本之后的需求功能以及特色功能、bug回复
+
+#### 特色功能
+
+alpha之前
+- 需求广场 + 企业的需求管理
+
+alpha版本后
+- 反馈机制
+- 评价机制
+- 推荐机制
+    - 对推荐进行优化和修改：增加评价作为参考因素
+    - 需求推荐
+- <span style=color:red>常见问题</span>（oyk）
+
+#### TODO
+
+反馈形成闭环（gmm， lzz， xgl， xcc）
+
+推荐需要修改（oyk， lpx）
+
+修bug（全部）
