@@ -67,7 +67,7 @@
   - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
   - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
 - API协作：[Apifox](https://www.apifox.cn/web/project/843519)
-- BUG修复：[Bug list](https://www.yuque.com/docs/share/255a8d68-911c-4eb0-bd4a-6055f3fbfaf3)
+- BUG修复：[Bug list](https://www.wolai.com/imingx/eUSHmuhF351MFLe4SGQUea)
 - 通知公告：微信群
 
 ## Commit 规范
