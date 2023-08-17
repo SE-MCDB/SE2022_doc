@@ -16,7 +16,7 @@
 
 
 - 名称：`PaperDaily`
-- 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/imingx)
+- 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/JheKuo)
 - 编号：O2E-TU-2
 
 ## 成果
