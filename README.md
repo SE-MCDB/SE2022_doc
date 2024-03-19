@@ -16,7 +16,7 @@
 
 
 - 名称：`PaperDaily`
-- 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/JheKuo)
+- 成员：[@oyk](https://github.com/Mike-Smith-rem), [@lzz](https://github.com/cpfy), [@xgl](https://github.com/xgl010607), [@lpx](https://github.com/lpx-single), [@xcc](https://github.com/MrXcc0), [@gmm](https://github.com/imingx)
 - 编号：O2E-TU-2
 
 ## 成果
@@ -67,7 +67,7 @@
   - 用户端：[SE2022_Frontend_Web](https://github.com/SE-mcdb/SE2022_Frontend_Web)
   - APP端：[SE2022_Frontend_App](https://github.com/SE-mcdb/SE2022_Frontend_App)
 - API协作：[Apifox](https://www.apifox.cn/web/project/843519)
-- BUG修复：[Bug list](https://jhekuo.notion.site/O2E-TU-2-BUG-LIST-4478d838a05e435c8d0f75c2cabac170?pvs=4)
+- BUG修复：[Bug list](https://imingx.notion.site/O2E-TU-2-BUG-LIST-4478d838a05e435c8d0f75c2cabac170?pvs=4)
 - 通知公告：微信群
 
 ## Commit 规范
